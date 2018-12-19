@@ -1,5 +1,6 @@
 {
   "name": "appme",
   "integrations": {},
-  "type": "ionic-angular"
+  "type": "ionic-angular",
+  "id": "8d957c51"
 }
